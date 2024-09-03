@@ -59,7 +59,7 @@ Given more time to work with this dataset, I would like to investigate addition
 
 ![model_test_score.png](img/model_test_score.png)
 
-## Summary
+## Summary:
 - The AutoGluon AutoML framework for Tabular Data was thoroughly studied and incorporated into this bike sharing demand prediction project. 
 - The AutoGluon framework's capabilities were fully utilized to make automated stack ensembled as well as individually distinct configured regression models trained on tabular data. It assisted in quickly prototyping a base-line model. 
 - The top-ranked AutoGluon-based model improved results significantly by utilizing data obtained after extensive exploratory data analysis (EDA) and feature engineering without hyperparameter optimization.
